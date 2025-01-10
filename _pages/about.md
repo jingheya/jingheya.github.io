@@ -21,6 +21,9 @@ redirect_from:
 I am currently a second-year Ph.D. student (2023 Fall) at the Hong Kong University of Science and Technology, Guangzhou, under the supervision of Prof. [Ying-Cong Chen](https://www.yingcong.me/). Prior to this, I began my research journey as a Master's student in 2020 at the [MAC Lab](https://mac.xmu.edu.cn/) of [Xiamen University](https://www.xmu.edu.cn/) and received my Master's degree in Artificial Intelligence in 2023, advised by the Prof. [Rongrong Ji](https://mac.xmu.edu.cn/rrji_en/). 
 
 My research interests focus on visual generative models, particularly in exploring their versatility ([Lotus](https://lotus3d.github.io/)), controllability ([DisEnvisioner](https://disenvisioner.github.io/)), and efficiency ([PixelFolder](https://arxiv.org/abs/2204.00833)). I am also interested in 3D vision and other AIGC tasks. 
+
+<p style="color: red;">Feel free to contact me via e-mail if you are interested in discussing or collaborating with me. 😊🤗</p>
+
 <!-- I am passionate about doing more interesting work that can facilitate and enrich people's work and daily lives.  -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->

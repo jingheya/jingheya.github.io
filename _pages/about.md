@@ -46,7 +46,7 @@ My research interests focus on visual generative models, particularly in explori
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-## Preprints
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -98,7 +98,7 @@ My research interests focus on visual generative models, particularly in explori
   </div>
 </div>
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">Arxiv 2024</div>
@@ -113,9 +113,8 @@ My research interests focus on visual generative models, particularly in explori
   arXiv 2024 <br>
   [Paper](https://arxiv.org/abs/2412.15050) / [Github (Soon)]()
   </div>
-</div>
+</div> -->
 
-## Conference
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>

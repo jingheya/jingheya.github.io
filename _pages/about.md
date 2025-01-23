@@ -22,16 +22,15 @@ I am currently a second-year Ph.D. student (2023 Fall) at the Hong Kong Universi
 
 My research interests focus on visual generative models, particularly in exploring their versatility ([Lotus](https://lotus3d.github.io/)), controllability ([DisEnvisioner](https://disenvisioner.github.io/)), and efficiency ([PixelFolder](https://arxiv.org/abs/2204.00833)). I am also interested in 3D vision and other AIGC tasks. 
 
-<p style="color: red;">Feel free to contact me via e-mail if you are interested in discussing or collaborating with me. 😊🤗</p>
+<p style="color: red;">Feel free to contact me via e-mail if you are interested in discussing or collaborating with me. 😊</p>
 
 <!-- I am passionate about doing more interesting work that can facilitate and enrich people's work and daily lives.  -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2025-01-23*: &nbsp;🎉🎉 Two Papers are accepted by ICLR2025! 
 
 # 📝 Publications 
 
@@ -50,7 +49,7 @@ My research interests focus on visual generative models, particularly in explori
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Arxiv 2024</div>
+      <div class="badge">ICLR 2025</div>
       <img src='images/lotus.jpg' alt="sym" width="100%">
     </div>
   </div>
@@ -59,7 +58,7 @@ My research interests focus on visual generative models, particularly in explori
   **LOTUS: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**
 
   **Jing He**&#42; , [Haodong Li](https://haodong-li.com/)&#42;, [Wei Yin](https://yvanyin.net/), [Yixun Liang](https://yixunliang.github.io/), [Kaiqiang Zhou](), [Hongbo Zhang](), [Bingbing Liu](), [Ying-Cong Chen](https://www.yingcong.me/)<sup>†</sup><br>
-  arXiv 2024 <br>
+  ICLR 2025 <br>
   [Paper](https://arxiv.org/abs/2409.18124) / [Project Page](https://lotus3d.github.io/) / [Github](https://github.com/EnVision-Research/Lotus) [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EnVision-Research/Lotus">](https://github.com/EnVision-Research/Lotus) / [Demo (Depth)](https://huggingface.co/spaces/haodongli/Lotus_Depth) / [Demo (Normal)](https://huggingface.co/spaces/haodongli/Lotus_Normal) / [ComfyUI](https://github.com/kijai/ComfyUI-Lotus)
   </div>
 </div>
@@ -67,7 +66,7 @@ My research interests focus on visual generative models, particularly in explori
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Arxiv 2024</div>
+      <div class="badge">ICLR 2025</div>
       <img src='images/DE2.png' alt="sym" width="100%">
     </div>
   </div>
@@ -76,7 +75,7 @@ My research interests focus on visual generative models, particularly in explori
   **DisEnvisioner: Disentangled and Enriched Visual Prompt for Image Customization**
 
   **Jing He**&#42; , [Haodong Li](https://haodong-li.com/)&#42;,[Yongzhe Hu](), [Guibao Shen](https://scholar.google.com/citations?user=d8VVM4UAAAAJ&hl=en), [Yingjie Cai](https://yjcaimeow.github.io/), [Weichao Qiu](https://weichaoqiu.com/), [Ying-Cong Chen](https://www.yingcong.me/)<sup>†</sup><br>
-  arXiv 2024 <br>
+  ICLR 2025 <br>
   [Paper](https://arxiv.org/abs/2410.02067) / [Project Page](https://disenvisioner.github.io/) / [Github](https://github.com/EnVision-Research/DisEnvisioner) [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/EnVision-Research/DisEnvisioner">](https://github.com/EnVision-Research/DisEnvisioner) / [Demo (Soon)]()
   </div>
 </div>
@@ -184,10 +183,12 @@ My research interests focus on visual generative models, particularly in explori
   </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2023-2025* Postgraduate Scholarship, HKUST-GZ. 
-- *2020* Outstanding graduate student by WIT. 
-- *2016-2020* First-Class Scholarship by WIT. 
+# 💻 Internships
+- *2021.08 - 2022.01*, Tencent Youtu Lab, Shanghai, China. 
+  
+# 📚 Services
+Reviewer: ICLR2025, AAAI2024
+
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. Student at AI Trust, The Hong Kong University of Science and Technology, GuangZhou. Advisor: [Ying-Cong Chen](https://www.yingcong.me/). 
@@ -198,8 +199,8 @@ My research interests focus on visual generative models, particularly in explori
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 📚 Services
-Reviewer: ICLR2025, AAAI2024
 
-# 💻 Internships
-- *2021.08 - 2022.01*, Tencent Youtu Lab, Shanghai, China. 
+# 🎖 Honors and Awards
+- *2023-2025* Postgraduate Scholarship, HKUST-GZ. 
+- *2020* Outstanding graduate student by WIT. 
+- *2016-2020* First-Class Scholarship by WIT. 

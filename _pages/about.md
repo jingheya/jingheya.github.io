@@ -30,7 +30,7 @@ My research interests focus on visual generative models, particularly in explori
 
 
 # 🔥 News
-- *2025-01-23*: &nbsp;🎉🎉 Two Papers are accepted by ICLR2025! 
+- *2025-01-23*: &nbsp;🎉🎉 Two papers are accepted by ICLR2025! 
 
 # 📝 Publications 
 
